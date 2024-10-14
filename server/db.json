@@ -1,0 +1,27 @@
+{
+  "jobs": [
+    {
+      "name": "Ăn",
+      "status": true,
+      "id": 4,
+      "title": ""
+    },
+    {
+      "name": "Chơi",
+      "status": false,
+      "id": 5,
+      "title": "ngủ"
+    },
+    {
+      "name": "Code",
+      "status": false,
+      "id": 6
+    },
+    {
+      "name": "Ngủ",
+      "status": false,
+      "id": 7,
+      "title": null
+    }
+  ]
+}
